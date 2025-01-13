@@ -22,10 +22,11 @@
   - **Retention Rate Visualization**: Heatmaps and funnel charts to display customer retention and acquisition data.
   - **Advanced Filters**: Allows users to filter by customer type, behavior score, and product preferences.  
 
-![Customer Behavior](https://example.com/customer_behavior.png)  
+![customer_based_analysis](https://github.com/user-attachments/assets/0c1c54d7-7a9d-420c-abf5-f5dfefee626f)
+
 *(Example Image of Customer Analysis Dashboard)*
 
-### **3. # Region-Based Sales Performance Dashboard  
+### **3. Region - Based Analysis**  
 - **Industry**: Retail  
 - **Objective**: Analyze monthly sales performance, revenue trends, and key metrics across different regions and product categories to uncover regional insights.  
 - **Features**:
