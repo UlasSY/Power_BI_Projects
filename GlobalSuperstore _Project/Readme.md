@@ -24,8 +24,6 @@
 
 ![customer_based_analysis](https://github.com/user-attachments/assets/0c1c54d7-7a9d-420c-abf5-f5dfefee626f)
 
-*(Example Image of Customer Analysis Dashboard)*
-
 ### **3. Region - Based Analysis**  
 - **Industry**: Retail  
 - **Objective**: Analyze monthly sales performance, revenue trends, and key metrics across different regions and product categories to uncover regional insights.  
@@ -36,4 +34,3 @@
 - **DAX Formulas**: Employed to calculate year-over-year growth and percentage change in revenue on a per-region basis, enhancing regional sales comparisons.
 
 ![region_based_analysis](https://github.com/user-attachments/assets/acbf1206-93b1-4655-96b7-9787019d579c)
-
