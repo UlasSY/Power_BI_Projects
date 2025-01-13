@@ -31,7 +31,6 @@ In each of these Power BI projects, the following tools and technologies were ut
 To explore the projects, follow these steps:
 
 1. **Clone the repository**:  
--   ```bash
 -   git clone https://github.com/UlasSY/Power_BI_Projects.git
 
 2. **Open the Power BI files:**
@@ -43,9 +42,9 @@ To explore the projects, follow these steps:
 
 📧 Contact & Feedback
 * If you have any questions, suggestions, or feedback on these Power BI projects, feel free to reach out!
-- Email: your_email@example.com
-- LinkedIn: Your LinkedIn Profile
-- GitHub: GitHub Profile
+- Email: yolalulas@gmail.com
+- LinkedIn: www.linkedin.com/in/ulas-s-yolal
+- GitHub: [GitHub Profile](https://github.com/UlasSY)
 
 
 
