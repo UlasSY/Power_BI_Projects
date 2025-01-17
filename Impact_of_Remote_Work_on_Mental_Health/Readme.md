@@ -49,5 +49,5 @@ Feel free to clone or fork the repository for your own analysis or to contribute
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./(https://github.com/UlasSY/Power_BI_Projects/blob/main/LICENSE)) file for details.
 
